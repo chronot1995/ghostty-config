@@ -65,3 +65,5 @@ alpha-blending = native
 quit-after-last-window-closed = true
 ## Keybindings
 keybind = ctrl+shift+j=write_screen_file:open
+## Terminal Optimizations
+shell-integration-features = ssh-env,ssh-terminfo
